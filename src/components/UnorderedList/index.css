@@ -1,0 +1,28 @@
+ul {
+  background-color: lightslategray;
+  padding: 20px;
+  height: 300px;
+  display: flex;
+  /* justify-content: center; */
+  /* display: inline-flex; */
+
+  /* flex-direction: row-reverse;
+  flex-direction: column-reverse; */
+  /* flex-wrap: wrap; */
+  /* height: 300px;
+  flex-flow: column wrap; */
+
+  /* justify-content: space-evenly; */
+  /* align-content: center; */
+  /* align-items: flex-start; */
+  /* align-items: flex-start; */
+  /* align-self: center; */
+  /* align-content: center; */
+  /* align-self: center; */
+
+  /* align-items: center; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+
+  align-items: flex-start;
+}
